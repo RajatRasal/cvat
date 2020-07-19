@@ -51,6 +51,7 @@ class ShapeCreatorModel extends Listener {
                 mode: this._defaultMode,
                 type: this._defaultType,
                 label: this._defaultLabel,
+                annotation_type: this._defaultType,
                 frame,
             });
         }
